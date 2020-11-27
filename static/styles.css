@@ -1,0 +1,48 @@
+.nav-link {
+    color: white;
+}
+
+nav li {
+   display: inline;
+   padding: 10%;
+   text-align: justify;
+}
+div {
+    display: flex;
+  }
+section {
+    float: left;
+    width: 20%;
+    background-color: rgb(83, 83, 83);
+    color: ghostwhite;
+    text-align: center;
+}
+section li {
+    text-align: left;
+    font-size: 24px;
+    font-family: Georgia;
+    padding: 5px;
+}
+aside {
+    float: left;
+    width: 80%;
+    background-color: lightgray;
+    font-size: 24px;
+    font-family: Georgia;
+    padding: 5%;
+    padding-top: 0%;
+}
+span {
+    font-size: 14pt;
+    color: darkred;
+    text-align: center;
+    padding-left: 5%;
+}
+body {
+    background-color: black;
+    margin: 0px;
+}
+footer {
+    background-color: black;
+    color: white;  
+}
